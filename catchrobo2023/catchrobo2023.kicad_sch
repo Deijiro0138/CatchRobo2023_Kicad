@@ -3026,7 +3026,7 @@
     (property "Value" "100u" (id 1) (at 67.691 108.3822 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 65.7352 110.49 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm" (id 2) (at 65.7352 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 64.77 106.68 0)
@@ -3173,7 +3173,7 @@
     (uuid 8edf91d6-eff2-4aec-960c-cdc9190d1f9d)
     (property "Reference" "U10" (id 0) (at 229.87 44.611 0))
     (property "Value" "STSPIN220" (id 1) (at 229.87 47.1479 0))
-    (property "Footprint" "" (id 2) (at 227.33 60.96 0)
+    (property "Footprint" "Catchrobo_parts:STSPIN220" (id 2) (at 227.33 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 227.33 60.96 0)
@@ -3549,7 +3549,7 @@
     (uuid c0c1c426-32ce-4e58-ad7b-ad0f382a982b)
     (property "Reference" "U9" (id 0) (at 229.87 14.131 0))
     (property "Value" "STSPIN220" (id 1) (at 229.87 16.6679 0))
-    (property "Footprint" "" (id 2) (at 227.33 30.48 0)
+    (property "Footprint" "Catchrobo_parts:STSPIN220" (id 2) (at 227.33 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 227.33 30.48 0)
@@ -3659,7 +3659,7 @@
     (uuid d326836a-3a12-431e-8f05-d632472e9eb8)
     (property "Reference" "SW2" (id 0) (at 60.96 151.2402 0))
     (property "Value" "SW_DIP_x04" (id 1) (at 60.96 153.7771 0))
-    (property "Footprint" "" (id 2) (at 60.96 162.56 0)
+    (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 60.96 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 60.96 162.56 0)
@@ -3834,7 +3834,7 @@
     (property "Value" "100u" (id 1) (at 108.331 108.3822 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 106.3752 110.49 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm" (id 2) (at 106.3752 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 105.41 106.68 0)
@@ -4074,10 +4074,10 @@
       (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
     (path "/7c4cf30b-40be-4e88-b1a4-631cdeaa5354"
-      (reference "C1") (unit 1) (value "100u") (footprint "")
+      (reference "C1") (unit 1) (value "100u") (footprint "Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm")
     )
     (path "/f1ea9074-cc79-4bdc-8375-68a92f1f00cc"
-      (reference "C2") (unit 1) (value "100u") (footprint "")
+      (reference "C2") (unit 1) (value "100u") (footprint "Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm")
     )
     (path "/d9f3dddd-27ac-46e5-ae48-bafbcbf81d8c"
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-323")
@@ -4140,7 +4140,7 @@
       (reference "SW1") (unit 1) (value "SW_DPDT_x2") (footprint "")
     )
     (path "/d326836a-3a12-431e-8f05-d632472e9eb8"
-      (reference "SW2") (unit 1) (value "SW_DIP_x04") (footprint "")
+      (reference "SW2") (unit 1) (value "SW_DIP_x04") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/5ccd5fa3-a1d2-4653-a35a-1d86acd5201c"
       (reference "U1") (unit 1) (value "942H-2C-9DS") (footprint "")
@@ -4167,10 +4167,10 @@
       (reference "U8") (unit 1) (value "TC74HC4052A") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/c0c1c426-32ce-4e58-ad7b-ad0f382a982b"
-      (reference "U9") (unit 1) (value "STSPIN220") (footprint "")
+      (reference "U9") (unit 1) (value "STSPIN220") (footprint "Catchrobo_parts:STSPIN220")
     )
     (path "/8edf91d6-eff2-4aec-960c-cdc9190d1f9d"
-      (reference "U10") (unit 1) (value "STSPIN220") (footprint "")
+      (reference "U10") (unit 1) (value "STSPIN220") (footprint "Catchrobo_parts:STSPIN220")
     )
     (path "/2d7e83a6-69d3-438f-a10a-517e6ac07561"
       (reference "U11") (unit 1) (value "SPT15") (footprint "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal")

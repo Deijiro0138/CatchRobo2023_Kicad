@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Catchrobo_parts")(type "KiCad")(uri "${KIPRJMOD}/Catchrobo_parts.pretty")(options "")(descr ""))
+)
