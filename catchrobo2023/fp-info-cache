@@ -1,4 +1,4 @@
-20335601606050557
+20342348577742535
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6244,12 +6244,40 @@ capacitor tantalum
 2
 2
 Catchrobo_parts
+2MS1-T1-B4-M2-Q-E-S
+
+
+0
+3
+3
+Catchrobo_parts
+942H-2C-9DS
+
+
+0
+8
+8
+Catchrobo_parts
+RaspberryPiPico
+
+
+0
+40
+40
+Catchrobo_parts
+SOIC-16-150mil
+
+
+0
+16
+16
+Catchrobo_parts
 STSPIN220
 
 
 0
-0
-0
+16
+16
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
