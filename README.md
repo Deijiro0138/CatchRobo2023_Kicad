@@ -18,6 +18,8 @@
 - GP18~21(DIPスイッチ0-3)
 - GP28(センサ読み取り用)
 
+![Raspberry Pi Picoのピン配置](https://image.itmedia.co.jp/news/articles/2107/23/l_bmepico01.jpg)
+
 ## 回路図（暫定）
 以下のファイルに現在の暫定版の回路図がある.
 catchrobo2023/catchrobo2023.pdf
