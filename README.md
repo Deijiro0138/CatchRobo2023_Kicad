@@ -23,3 +23,5 @@
 ## 回路図（暫定）
 以下のファイルに現在の暫定版の回路図がある.
 catchrobo2023/catchrobo2023.pdf
+![回路図](/catchrobo2023/Screenshot%20from%202023-06-16%2015-00-04.png)
+![基板の外形](/catchrobo2023/Screenshot%20from%202023-06-16%2015-02-18.png)
