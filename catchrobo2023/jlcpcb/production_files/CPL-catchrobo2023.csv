@@ -6,7 +6,7 @@ D3,D_Schottky,D_SMA,27.0,44.5,0.0,top
 J1,Conn_01x03_Male,PinHeader_1x03_P2.54mm_Vertical,12.5,1.975,180.0,top
 J2,Conn_01x03_Male,PinHeader_1x03_P2.54mm_Vertical,17.0,1.99,180.0,top
 J3,Conn_01x03_Male,PinHeader_1x03_P2.54mm_Vertical,21.5,1.975,180.0,top
-J4,Conn_01x02_Male,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,22.025,37.75,-90.0,top
+J4,Conn_01x02_Male,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,22.5,39.0,-90.0,top
 J5,Conn_01x02_Male,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,41.75,2.975,180.0,top
 J6,Conn_01x02_Male,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,43.25,44.025,0.0,top
 J7,Conn_01x02_Male,JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical,52.25,44.025,0.0,top
