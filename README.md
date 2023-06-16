@@ -36,7 +36,7 @@
 AはGP15,BはGP15に接続されている.**GP28のADC機能を用いて,チャンネルを切り替えながら周囲の障害物を検知する.** <br>
 [CD4051BM96データシート](https://datasheet.lcsc.com/lcsc/1809261612_Texas-Instruments-CD4051BM96_C21379.pdf)
 
-## 回路図（暫定）
+## 回路図
 以下のファイルに現在の暫定版の回路図がある.
 catchrobo2023/catchrobo2023.pdf
 ![回路図](/catchrobo2023/Images/Circuit.png)
