@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Catchrobo2023_OtherSubstrate")(type "KiCad")(uri "${KIPRJMOD}/Catchrobo2023_OtherSubstrate.kicad_sym")(options "")(descr ""))
+)
