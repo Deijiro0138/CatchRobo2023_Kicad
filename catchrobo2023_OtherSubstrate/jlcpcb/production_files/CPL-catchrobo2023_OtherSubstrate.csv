@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x02_Male,JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,56.75,7.85,0.0,top
+J2,Conn_01x02_Male,JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,30.75,7.85,0.0,top
+J3,Conn_01x02_Male,JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,8.85,17.25,-90.0,top
+J4,Conn_01x02_Male,JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,9.0,28.0,-90.0,top
+J5,Conn_01x04_Male,JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal,60.0,39.0,180.0,top
+J6,Conn_01x04_Male,JST_XH_S4B-XH-A-1_1x04_P2.50mm_Horizontal,34.0,39.15,180.0,top
+U1,STSPIN220,STSPIN220,57.0,24.0,90.0,top
+U2,STSPIN220,STSPIN220,31.0,24.0,90.0,top
